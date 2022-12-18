@@ -128,7 +128,6 @@ int main(){
                 << "\nVolume: " << threeDimensionalShapePtr->get_volume()
                 << endl;
         }
-
         cout << endl;
     }
 }
